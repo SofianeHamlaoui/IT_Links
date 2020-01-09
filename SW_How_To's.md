@@ -1,0 +1,6 @@
+|   | A                                                              | B                                                                                                                                               |
+|---|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Create an LCD Network Monitor using Opsview, Nagios and Nagvis | https://community.spiceworks.com/how_to/2832-create-an-lcd-network-monitor-using-opsview-nagios-and-nagvis?source=learn            |
+| 2 | Server monitoring software: What is it and why is it amazing?  | https://community.spiceworks.com/networking/articles/2553-server-monitoring-software-what-is-it-and-why-is-it-amazing?source=learn |
+| 3 | How to: Inexpensive, easy packet sniffer                       | https://community.spiceworks.com/how_to/164132-inexpensive-easy-packet-sniffer?source=learn                                              |
+| 4 | A 5-layer dip to better (and free) network monitoring       | https://community.spiceworks.com/networking/articles/2847-a-5-layer-dip-to-better-and-free-network-monitoring?source=learn          |
