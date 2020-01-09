@@ -1,0 +1,11 @@
+|    | A                                         | B                                                                                                                                                     |
+|----|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | Security Information and Event Management |                                                                                                                                                       |
+| 2  | Micro Focus ArcSight ESM                  | Comprehensive SIEM tool that runs on Windows environments and is very well suited to large organizations.                                            |
+| 3  | Splunk Enterprise Security                | This tool for Windows and Linux is a world leader because it combines network analysis with log management together with an excellent analysis tool. |
+| 4  | LogRhythm Security Intelligence Platform  | Cutting-edge AI-based technology underpins this traffic and log analysis tool for Windows and Linux.                                               |
+| 5  | AlienVault Unified Security Management    | Great value SIEM that runs on Mac OS as well as Windows.                                                                                             |
+| 6  | RSA NetWitness                            | Extremely comprehensive and tailored towards large organizations but a bit too much for small and medium-sized enterprises. Runs on Windows.       |
+| 7  | IBM QRadar                                | Market-leading SIEM tool that runs on Windows environments                                                                                           |
+| 8  | McAfee Enterprise Security Manager        | Popular SIEM tool that runs through your Active Directory records to confirm system security. Runs on Mac OS as well as Windows.                    |
+| 9  | Microsoft Azure Sentinel                  |                                                                                                                                                       |
